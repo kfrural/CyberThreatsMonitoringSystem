@@ -52,5 +52,4 @@ atualizar_listbox()
 
 root.mainloop()
 
-# Fechar a conexão com o banco de dados
 conn.close()
